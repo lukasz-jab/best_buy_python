@@ -127,7 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-target.json
-src/data/contacts.json
-src/data/groups.json
